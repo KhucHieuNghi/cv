@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khuc Hieu Nghi</h1>
-<h3 align="center">FullStack Developer from VietNam</h3>
+<h3 align="center">Software Engineer from VietNam</h3>
+
+<a href="https://app.daily.dev/anhcodo13"><img src="https://api.daily.dev/devcards/3a9d133c7f5046a4b62a76f21bd4b84f.png?r=76z" width="400" alt="Nghi Khuc's Dev Card"/></a>
 
 - 🔭 I’m currently working on Vexere [VEX](https://vexere.com/)
 
